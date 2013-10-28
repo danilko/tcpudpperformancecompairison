@@ -42,8 +42,13 @@ java -jar target/udptcpcomparision-0.0.1.jar
 
 On GUI, specify host and port
 Note, server will open on the configured host address and port, while client will use the configuration settings to connect the server
+
+So server and client can be opened through one GUI session
+
 Click on UDP Server to start UDP Server
+
 Click on UDP Client to start UDP Client
 
 Click on TCP Server to start TCP Server
+
 Click on TCP Client to start TCP Client
