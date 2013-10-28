@@ -32,7 +32,7 @@
  * @author Kai - Ting (Danil) Ko
  * The entry point for the client side that contains the main
  */
-package cs158a_project3_client;
+package com.client;
 
 import java.awt.EventQueue;
 

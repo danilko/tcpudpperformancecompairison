@@ -33,7 +33,7 @@
  * The base blueprints for all socket controllers
  */
 
-package cs15a_project3_component;
+package com.component;
 
 import java.net.InetAddress;
 

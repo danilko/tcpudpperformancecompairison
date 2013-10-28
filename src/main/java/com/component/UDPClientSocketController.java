@@ -36,7 +36,7 @@
  * 
  */
 
-package cs15a_project3_component;
+package com.component;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

@@ -33,15 +33,10 @@
  * The UI for the application
  */
 
-package cs158a_project3_client;
+package com.client;
 
 import javax.swing.JFrame;
 import javax.swing.JButton;
-
-import cs15a_project3_component.TCPClientSocketController;
-import cs15a_project3_component.TCPServerSocketController;
-import cs15a_project3_component.UDPClientSocketController;
-import cs15a_project3_component.UDPServerSocketController;
 
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
@@ -55,6 +50,11 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.JRadioButton;
+
+import com.component.TCPClientSocketController;
+import com.component.TCPServerSocketController;
+import com.component.UDPClientSocketController;
+import com.component.UDPServerSocketController;
 
 public class ClientFrame
 {
